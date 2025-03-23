@@ -2,14 +2,9 @@
     font-family: 'arial Courier New', monospace;
 }
 
-body {
-    background: #000 url("img/jpg/32.jpg") no-repeat fixed center/cover;
-    color: #000;
-}
-
 .tit01 {
 	text-decoration: none;
-	color: #000
+	color: #fff
 }
 
 img {
