@@ -1,0 +1,81 @@
+*{
+	font-family: monospace;
+}
+body{
+	background-color: #000;
+	background-image: url(file:///C:/Users/pc-gamer1/Desktop/dev/img/jpg/09.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.skt00{
+	background-color: #000;
+	padding: 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-style: solid;
+	border-color: #CE3E00;
+	border-width: 3px;
+	border-radius: 10px;
+	opacity: 95%;
+}
+p{
+	color: #fff;
+}
+h1{
+	color: #fff;
+}
+.img10{
+	position: inherit;
+	left: 20px;
+	top: 20px;
+	background-color: #CE3E00;
+	border-width: 4px;
+	border-color: #CE3E00;
+	border-style: solid;
+}
+.img11{
+	position: inherit;
+	left: 20px;
+	top: 20px;
+	background-color: #CE3E00;
+	border-width: 4px;
+	border-color: #CE3E00;
+	border-style: solid;
+}
+.li03{
+	color: #CE3E00;
+	list-style: none;
+}
+a{
+	color: #CE3E00;
+	text-decoration: none;
+
+}
+a:hover{
+	color: #FF4D00;
+	text-decoration: underline;
+}
+.skt01{
+	background-color: #000;
+	padding: 1px;
+	margin-left: 450px;
+	margin-right: 450px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+	border-style: solid;
+	border-color: #CE3E00;
+	border-width: 3px;
+	border-radius: 10px;
+	opacity: 95%;
+}
+.tit00{
+	color: #fff;
+	font-size: 40px;
+	font-family: sans-serif;
+}
+.par03{
+	width: 60%;
+}

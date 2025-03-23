@@ -1,0 +1,104 @@
+*{
+	font-family: monospace;
+}
+body{
+	background-color: #000;
+	background-image: url(file:///C:/Users/pc-gamer1/Desktop/dev/img/jpg/32.jpg);
+	background-size: 100%;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.hh00{
+	 background-color: rgba(0, 0, 0, 0.5);
+	 padding: 10px;
+	 margin-left: 90px;
+	 margin-right: 90px;
+	 margin-top: 55px;
+	 margin-bottom: 50px;
+	 border-style: solid;
+	border-color: #000;
+	border-width: 4px;
+	border-radius: 10px;
+}
+.hh02{
+	 background-color: rgba(0, 0, 0, 0.5);
+	 padding: 10px;
+	 margin-left: 90px;
+	 margin-right: 90px;
+	 margin-top: 55px;
+	 margin-bottom: 50px;
+	 border-style: solid;
+	border-color: #000;
+	border-width: 4px;
+	border-radius: 10px;
+}
+.hh01{
+	text-align: center;
+}
+p{
+	color: #fff;
+}
+h1{
+	color: #fff;
+}
+H2{
+	color: #fff;
+}
+.img03{
+	top: 20px;
+	background-color: #000;
+	border-width: 4px;
+	border-color: #000;
+	border-style: solid;
+}
+.img04{
+	top: 20px;
+	background-color: #000;
+	border-width: 2px;
+	border-color: #000;
+	border-style: solid;
+}
+.ps00{
+	text-align: center;
+}
+.ps01{
+	text-align: center;
+}
+a{
+	color: #fff;
+	text-decoration: none;
+}
+a:hover{
+	color: #8B8B8B;
+	text-decoration: none;
+	transition-duration: 1s;
+}
+img{
+	opacity: 67%;
+	filter: grayscale(100%);	
+}
+img:hover{
+	transition-duration: 1s;
+	opacity: 100%;
+	filter: none;
+}
+iframe{
+	filter: grayscale(100%) blur(5px);
+	border-style: solid;
+	border-width: 4px;
+	border-color: #000;
+	transition-duration: 2s;
+}
+iframe:hover{
+	filter: none;
+}
+.lin00{
+	margin-right: 	20px;
+	margin-top: 	20px;	
+	position: sticky;
+}
+.lin01{
+	margin-left: 	0px;
+	margin-top: 	0px;	
+	position: sticky;
+}

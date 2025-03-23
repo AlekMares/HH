@@ -1,0 +1,42 @@
+Símbolos de pontuação e matemáticos:
+
+Alt + 0176 = ° (símbolo de grau)
+Alt + 0216 = Ø (letra O com barra)
+Alt + 0215 = × (símbolo de multiplicação)
+Alt + 0183 = · (ponto médio)
+Alt + 0190 = ¾ (fração de três quartos)
+Alt + 0153 = ™ (marca registrada)
+Alt + 0169 = © (símbolo de copyright)
+Alt + 0174 = ® (símbolo de marca registrada)
+
+Letras com acento e caracteres especiais:
+
+Alt + 0225 = á (a com acento agudo)
+Alt + 0233 = é (e com acento agudo)
+Alt + 0241 = ñ (n til)
+Alt + 0191 = ¿ (ponto de interrogação invertido)
+Alt + 0237 = í (i com acento agudo)
+Alt + 0243 = ó (o com acento agudo)
+
+Símbolos de moeda:
+
+Alt + 0162 = ¢ (símbolo de centavo)
+Alt + 0128 = € (símbolo do euro)
+Alt + 0165 = ¥ (símbolo do iene)
+
+Outros símbolos úteis:
+
+Alt + 0177 = ± (símbolo de mais ou menos)
+Alt + 0196 = Ä (A com diacrítico trema)
+Alt + 0220 = Ü (U com diacrítico trema)
+Alt + 0247 = ÷ (símbolo de divisão)
+
+
+Alt + 0126 = ~ (til)
+Alt + 0151 = — (travessão)
+Alt + 0149 = • (bullet point)
+Alt + 0133 = … (reticências)
+Alt + 0160 = (espaço não quebrável)
+Alt + 0222 = Þ (letra Thorne maiúscula)
+Alt + 0223 = ß (letra Eszett ou sharp S)
+Alt + 0244 = ô (o com circunflexo)
