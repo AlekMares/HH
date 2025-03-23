@@ -3,7 +3,7 @@
 }
 body{
 	background-color: #000;
-	background-image: url(file:///C:/Users/alekm/OneDrive/%C3%81rea%20de%20Trabalho/dev/img/jpg/04.jpg);
+	background-image: url(img/jpg/04.jpg);
 	background-size: 100%;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -30,6 +30,7 @@ p{
 a{
 	color: #004409;
 	text-decoration: none;
+	font-size: 40px;
 }
 a:hover{
 	color: #005B0C;
